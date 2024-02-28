@@ -1,1 +1,1 @@
-npm --no-git-tag-version version patch && git add .
+npm --no-git-tag-version version patch && npx semantic-release
